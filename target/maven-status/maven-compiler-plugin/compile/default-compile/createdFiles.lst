@@ -1,0 +1,7 @@
+com\example\App\AppRestController.class
+com\example\App\TrapMapper.class
+com\example\App\App3Application.class
+com\example\App\TrapDAOInterface.class
+com\example\App\AppController.class
+com\example\App\TrapDAO.class
+com\example\App\TrapDTO.class
